@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-red {background: #ff9c9c;}
+.bg-green {background: #c4ef80;}
+.border-red {border: 1px solid #000;}
+.border-green {border: 1px solid #000;}
